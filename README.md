@@ -9,10 +9,14 @@ To write a program to predict the price of the house and number of occupants in 
 
 ## Algorithm
 1.Import NumPy, Matplotlib and SGDRegressor libraries.
-Create the dataset containing house prices and number of occupants.
-Initialize the SGD Regressor model with suitable parameters.
-Train the model using the fit() function.
-Predict the house price using predict() and display the graph.
+
+2.Create the dataset containing house prices and number of occupants.
+
+3.Initialize the SGD Regressor model with suitable parameters.
+
+4.Train the model using the fit() function.
+
+5.Predict the house price using predict() and display the graph.
 ## Program:
 ```
 /*
